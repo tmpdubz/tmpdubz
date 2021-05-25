@@ -6,6 +6,7 @@ https://tdubiel.dev
 
 - 🤓 I started off in Math, but have taken a few drastic turns through Data Engineering, Data Science, and now DevOps.
 - 🔭 I’m currently working on SRE/DevOps stuff at Foko Retail (Recently acquired by Workforce Software).
+- 📚 I've spent most of my time writing Scala, Java, and Javascript
 - 🌱 I’m currently learning Go and Ruby for fun and profit!
 - 😄 Pronouns: He/Him
 
