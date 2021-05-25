@@ -1,7 +1,7 @@
 ### Oh hai 👋
 My name is Tom!
 
-https://tmpdubz.github.io/
+https://tdubiel.dev
 
 
 - 🤓 I started off in Math, but have taken a few drastic turns through Data Engineering, Data Science, and now DevOps.
