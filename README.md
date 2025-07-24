@@ -4,10 +4,10 @@ My name is Tom!
 https://tdubiel.dev
 
 
-- 🤓 I started off in Math, but have taken a few drastic turns through Data Engineering, Data Science, and now DevOps.
-- 🔭 I’m currently working on Data Reliability stuff at Shopify.
-- 📚 I've spent most of my time writing Scala, Java, and Javascript
-- 🌱 I’m currently learning Go and Ruby for fun and profit!
+- 🤓 I started off studying Mathematics, but have taken a few twists and turns through Data Engineering, Data Science, and DevOps.
+- 🔭 I’m currently working as an SRE at Shopify, where I get to see systems fail at every level of the stack at a staggering scale 💥.
+- 📚 I write Ruby, Go, Rust, and Javascript in my day to day.
+- 🌱 I’m currently learning to manage my systems with nix!
 - 😄 Pronouns: He/Him
 
 <!--
